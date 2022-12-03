@@ -2,7 +2,7 @@ import React from 'react';
 
 function Test(props: any) {
   return (
-    <div>Test</div>
+    <div>Test 2</div>
   );
 }
 

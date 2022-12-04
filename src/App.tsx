@@ -4,20 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima perspiciatis placeat reprehenderit temporibus.</p>
-        <a
-          className="App-link"
-          href="https://reactjs.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-           Learn React
-        </a>
-      </header>
+      <div>App</div>
+      <div>dev branch commit 1</div>
     </div>
   );
 }
